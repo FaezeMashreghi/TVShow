@@ -16,7 +16,6 @@ The project enables users to:
 - **State Management:** Redux Toolkit simplifies state management, making the app scalable and efficient.
 - **Routing:** React Router handles smooth navigation between different sections of the app.
 - **API Integration:** Axios provides reliable and easy-to-use API handling.
-- **UI Design:** The interface is simple, visually appealing, and user-friendly.
 
 ## Architectural Decisions
 
