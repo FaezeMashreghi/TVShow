@@ -92,7 +92,7 @@ root
 
 6. Run tests:
    ```bash
-   npm test
+   npm run test
    ```
 
 
