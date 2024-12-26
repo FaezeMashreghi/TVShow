@@ -67,7 +67,7 @@ root
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/FaezeMashreghi/tv-show.git
+   git clone https://github.com/FaezeMashreghi/tvShow.git
    ```
 
 2. Navigate to the project directory:
@@ -112,4 +112,8 @@ root
 - I developed this project within a time frame of 5-6 hours. It is not a perfect project, as the task description explicitly mentioned that a lot of time should not be spent on it.
 - Minimal use of scaffolding tools was ensured to highlight custom implementations.
 - The UI is designed to balance simplicity with functionality.
+
+## Why Vite?
+
+- Vite was chosen for its simplicity and speed, allowing me to quickly set up the React project without requiring extensive custom configurations.
 
