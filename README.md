@@ -71,7 +71,7 @@ root
 
 2. Navigate to the project directory:
    ```bash
-   cd tv-show
+   cd tvShow
    ```
 
 3. Install dependencies:
